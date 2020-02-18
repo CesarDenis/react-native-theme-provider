@@ -1,0 +1,37 @@
+[
+  {
+    "key": "MAASTRICHT BLUE",
+    "backgroundColor": "#011627",
+    "color": "#ffffff"
+  },
+  {
+    "key": "MAXIMUM BLUE GREEN",
+    "backgroundColor": "#2ec4b6",
+    "color": "#ffffff"
+  },
+  {
+    "key": "ROSE MADDER",
+    "backgroundColor": "#e71d36",
+    "color": "#ffffff"
+  },
+  {
+    "key": "BRIGHT YELLOW (CRAYOLA)",
+    "backgroundColor": "#ff9f1c",
+    "color": "#1f2d3d"
+  },
+  {
+    "key": "SLATE BLUE",
+    "backgroundColor": "#7159c1",
+    "color": "#ffffff"
+  },
+  {
+    "key": "DEEP JUNGLE GREEN",
+    "backgroundColor": "#0E4749",
+    "color": "#ffffff"
+  },
+  {
+    "key": "TYRIAN PURPLE",
+    "backgroundColor": "#5B033C",
+    "color": "#ffffff"
+  }
+]

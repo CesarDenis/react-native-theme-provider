@@ -8,10 +8,18 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@expo/vector-icons": "^10.0.0",
+    "@react-native-community/masked-view": "0.1.5",
+    "@react-navigation/bottom-tabs": "^5.0.5",
+    "@react-navigation/native": "^5.0.5",
     "expo": "~36.0.0",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
+    "react-native-gesture-handler": "~1.5.0",
+    "react-native-reanimated": "~1.4.0",
+    "react-native-safe-area-context": "^0.7.3",
+    "react-native-screens": "2.0.0-alpha.12",
     "react-native-web": "~0.11.7"
   },
   "devDependencies": {
@@ -22,7 +30,8 @@
     "eslint": "^6.8.0",
     "eslint-config-universe": "^2.3.0",
     "eslint-plugin-import-helpers": "^1.0.2",
-    "prettier": "^1.19.1"
+    "prettier": "^1.19.1",
+    "typescript": "^3.7.5"
   },
   "private": true
 }
